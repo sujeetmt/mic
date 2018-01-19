@@ -1,0 +1,6 @@
+echo "# improve-Mic-quality" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/MysteryTech/improve-Mic-quality.git
+git push -u origin master
